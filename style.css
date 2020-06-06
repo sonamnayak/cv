@@ -1,0 +1,13 @@
+body{background-color: #fff0f5;}
+
+hr {
+border-style:none;
+border-color:gray;
+border-top-style: dotted ;
+border-width: 3;
+width: 10%; 
+  }
+
+img{
+    border-radius: 180%;
+}
